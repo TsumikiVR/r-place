@@ -13,7 +13,7 @@
 // ==/UserScript==
 
 const images = [
-  [252, 1544, 1, "https://i.imgur.com/sFDPVvq.jpg"],
+  [250, 1643, 1, "https://i.imgur.com/kOtn9m0.png"],
 ]
 
 const pixels_per_placepixel = 3;
