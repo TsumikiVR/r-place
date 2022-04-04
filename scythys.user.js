@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Scythys Logo r/Place
 // @namespace    https://www.reddit.com/r/Place/
-// @version      1.0.5
+// @version      1.0.1
 // @description  Place Scythys Logo Overlay
 // @author       r/Place (edited by Tsumiki#0001)
 // @match        https://hot-potato.reddit.com/embed*
@@ -9,11 +9,11 @@
 // @grant        none
 // @license      GPL-3.0
 // @downloadURL  https://github.com/TsumikiVR/r-place/raw/main/scythys.user.js
-// @homepageURL  https://github.com/TsumikiVR/
+// @homepageURL  https://github.com/TsumikiVR/r-place/
 // ==/UserScript==
 
 const images = [
-  [251, 1544, 1, "https://i.imgur.com/sFDPVvq.jpg"],
+  [252, 1544, 1, "https://i.imgur.com/sFDPVvq.jpg"],
 ]
 
 const pixels_per_placepixel = 3;
